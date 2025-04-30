@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
   --primary: #004d40; /* Deep teal - already correct */
-  --secondary: #c99c33;
+  --secondary: #ff5e14;
   --accent: #00acc1;
   --light: #f5f5f5;
   --dark: #212121;
@@ -42,6 +42,16 @@ h6,
 
 .bg-dark {
   background-color: var(--dark) !important;
+}
+
+.bg-primary {
+  background-color: var(--primary) !important;
+}
+.text-primary {
+  color: var(--primary) !important;
+}
+.text-secondary {
+  color: var(--secondary) !important;
 }
 
 /*** Spinner ***/
@@ -231,46 +241,46 @@ h6,
 
 /* Responsive carousel heights based on device */
 .carousel-item-fullscreen {
-    height: 100vh; /* Default for desktop */
-    position: relative;
+  height: 100vh; /* Default for desktop */
+  position: relative;
+}
+
+/* Ensure images cover the area properly */
+.carousel-item-fullscreen img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+/* Adjust for different screen sizes */
+@media (max-width: 991.98px) {
+  .carousel-item-fullscreen {
+    height: 80vh; /* Slightly shorter on tablets */
   }
-  
-  /* Ensure images cover the area properly */
-  .carousel-item-fullscreen img {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
+}
+
+@media (max-width: 767.98px) {
+  .carousel-item-fullscreen {
+    height: 70vh; /* Shorter on mobile */
   }
-  
-  /* Adjust for different screen sizes */
-  @media (max-width: 991.98px) {
-    .carousel-item-fullscreen {
-      height: 80vh; /* Slightly shorter on tablets */
-    }
+
+  /* Make text smaller on mobile */
+  .carousel-caption .display-1 {
+    font-size: 2.5rem;
   }
-  
-  @media (max-width: 767.98px) {
-    .carousel-item-fullscreen {
-      height: 70vh; /* Shorter on mobile */
-    }
-    
-    /* Make text smaller on mobile */
-    .carousel-caption .display-1 {
-      font-size: 2.5rem;
-    }
-    
-    .carousel-caption .fs-5 {
-      font-size: 1rem !important;
-    }
+
+  .carousel-caption .fs-5 {
+    font-size: 1rem !important;
   }
-  
-  /* Ensure very small devices still have readable content */
-  @media (max-width: 575.98px) {
-    .carousel-item-fullscreen {
-      height: 60vh;
-      min-height: 400px; /* Set minimum height to prevent too small carousels */
-    }
+}
+
+/* Ensure very small devices still have readable content */
+@media (max-width: 575.98px) {
+  .carousel-item-fullscreen {
+    height: 60vh;
+    min-height: 400px; /* Set minimum height to prevent too small carousels */
   }
+}
 
 @media (max-width: 768px) {
   #header-carousel .carousel-item {
@@ -762,4 +772,41 @@ h6,
 .copyright {
   color: #b0b9ae;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Section-specific styles */
+.section-distributor {
+  position: relative;
+  background: url("../img/home.jpg") no-repeat center center fixed; /* Fixed background */
+  background-size: cover;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.section-distributor::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent black overlay */
+  z-index: 1;
+}
+
+.section-distributor .text-container {
+  position: relative;
+  z-index: 2; /* Ensure text is above the overlay */
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.section-distributor h1 {
+  color: #ffffff;
+  margin-bottom: 5rem;
+  padding-bottom: 5rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Add text shadow */
 }
