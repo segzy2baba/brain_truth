@@ -297,12 +297,12 @@ h6,
 }
 
 .page-header {
-  background: linear-gradient(
-      to right,
-      rgba(2, 36, 91, 1) 0%,
-      rgba(2, 36, 91, 0) 100%
-    ),
-    url(../img/carousel-2.jpg) center center no-repeat;
+   background: linear-gradient(
+    to right,
+    rgba(0, 77, 64, 1) 0%,
+    rgba(0, 77, 64, 0) 100%
+  ),
+    url(../img/10.jpg) center center no-repeat;
   background-size: cover;
 }
 
@@ -777,7 +777,7 @@ h6,
 /* Section-specific styles */
 .section-distributor {
   position: relative;
-  background: url("../img/home.jpg") no-repeat center center fixed; /* Fixed background */
+  background: url("../img/4.jpg") no-repeat center center fixed; /* Fixed background */
   background-size: cover;
   padding-top: 5rem;
   padding-bottom: 5rem;
