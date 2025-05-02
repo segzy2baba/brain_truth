@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Industro - Industrial HTML Template</title>
+    <title>Building Tools Shop & Wholesaler</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta content="Building tools, hardware tools, Natraj spanners, files, wholesaler" name="keywords">
+    <meta content="Leading distributor of premium building tools and Natraj hardware products across Africa" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -73,12 +73,11 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h1 class="display-3 text-white animated slideInRight">Services</h1>
+            <h1 class="display-3 text-white animated slideInRight">Tools & Services</h1>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb animated slideInRight mb-0">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Services</li>
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Products & Services</li>
                 </ol>
             </nav>
         </div>
@@ -90,128 +89,122 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="fw-medium text-uppercase text-primary mb-2">Our Services</p>
-                <h1 class="display-5 mb-4">We Provide Best Industrial Services</h1>
+                <p class="fw-medium text-uppercase text-primary mb-2">Our Products & Services</p>
+                <h1 class="display-5 mb-4">Premium Building Tools & Equipment</h1>
             </div>
             <div class="row gy-5 gx-4">
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item">
-                        <img class="img-fluid" src="img/service-1.jpg" alt="">
+                        <img class="img-fluid" src="img/service-1.jpg" alt="Natraj Spanners">
                         <div class="service-img">
-                            <img class="img-fluid" src="img/service-1.jpg" alt="">
+                            <img class="img-fluid" src="img/service-1.jpg" alt="Natraj Spanners">
                         </div>
                         <div class="service-detail">
                             <div class="service-title">
                                 <hr class="w-25">
-                                <h3 class="mb-0">Civil & Gas Engineering</h3>
+                                <h3 class="mb-0">Natraj Spanners</h3>
                                 <hr class="w-25">
                             </div>
                             <div class="service-text">
-                                <p class="text-white mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos
-                                    lorem sed diam stet diam sed stet.</p>
+                                <p class="text-white mb-0">Premium quality spanners from Natraj, available in various sizes and configurations. Ideal for professional mechanics and construction workers.</p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Read More</a>
+                        <a class="btn btn-light" href="">View Products</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item">
-                        <img class="img-fluid" src="img/service-2.jpg" alt="">
+                        <img class="img-fluid" src="img/service-2.jpg" alt="Natraj Files">
                         <div class="service-img">
-                            <img class="img-fluid" src="img/service-2.jpg" alt="">
+                            <img class="img-fluid" src="img/service-2.jpg" alt="Natraj Files">
                         </div>
                         <div class="service-detail">
                             <div class="service-title">
                                 <hr class="w-25">
-                                <h3 class="mb-0">Power & Energy Engineering</h3>
+                                <h3 class="mb-0">Natraj Files</h3>
                                 <hr class="w-25">
                             </div>
                             <div class="service-text">
-                                <p class="text-white mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos
-                                    lorem sed diam stet diam sed stet.</p>
+                                <p class="text-white mb-0">High-precision files for metalwork, woodworking, and general purpose applications. Trusted by professionals across Africa for durability and performance.</p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Read More</a>
+                        <a class="btn btn-light" href="">View Products</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item">
-                        <img class="img-fluid" src="img/service-3.jpg" alt="">
+                        <img class="img-fluid" src="img/service-3.jpg" alt="Power Tools">
                         <div class="service-img">
-                            <img class="img-fluid" src="img/service-3.jpg" alt="">
+                            <img class="img-fluid" src="img/service-3.jpg" alt="Power Tools">
                         </div>
                         <div class="service-detail">
                             <div class="service-title">
                                 <hr class="w-25">
-                                <h3 class="mb-0">Plumbing & Water Treatment</h3>
+                                <h3 class="mb-0">Power Tools</h3>
                                 <hr class="w-25">
                             </div>
                             <div class="service-text">
-                                <p class="text-white mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos
-                                    lorem sed diam stet diam sed stet.</p>
+                                <p class="text-white mb-0">Comprehensive selection of power tools from leading brands. Drills, saws, grinders, and more for construction and building professionals.</p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Read More</a>
+                        <a class="btn btn-light" href="">View Products</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item">
-                        <img class="img-fluid" src="img/service-1.jpg" alt="">
+                        <img class="img-fluid" src="img/service-1.jpg" alt="Wholesale Distribution">
                         <div class="service-img">
-                            <img class="img-fluid" src="img/service-1.jpg" alt="">
+                            <img class="img-fluid" src="img/service-1.jpg" alt="Wholesale Distribution">
                         </div>
                         <div class="service-detail">
                             <div class="service-title">
                                 <hr class="w-25">
-                                <h3 class="mb-0">Civil & Gas Engineering</h3>
+                                <h3 class="mb-0">Wholesale Distribution</h3>
                                 <hr class="w-25">
                             </div>
                             <div class="service-text">
-                                <p class="text-white mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos
-                                    lorem sed diam stet diam sed stet.</p>
+                                <p class="text-white mb-0">Bulk ordering and distribution services for retailers and construction companies. Competitive pricing and reliable delivery across Africa.</p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Read More</a>
+                        <a class="btn btn-light" href="">Learn More</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item">
-                        <img class="img-fluid" src="img/service-2.jpg" alt="">
+                        <img class="img-fluid" src="img/service-2.jpg" alt="Hand Tools">
                         <div class="service-img">
-                            <img class="img-fluid" src="img/service-2.jpg" alt="">
+                            <img class="img-fluid" src="img/service-2.jpg" alt="Hand Tools">
                         </div>
                         <div class="service-detail">
                             <div class="service-title">
                                 <hr class="w-25">
-                                <h3 class="mb-0">Power & Energy Engineering</h3>
+                                <h3 class="mb-0">Hand Tools</h3>
                                 <hr class="w-25">
                             </div>
                             <div class="service-text">
-                                <p class="text-white mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos
-                                    lorem sed diam stet diam sed stet.</p>
+                                <p class="text-white mb-0">Complete range of professional-grade hand tools including hammers, screwdrivers, pliers, wrenches, and measuring tools for any building project.</p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Read More</a>
+                        <a class="btn btn-light" href="">View Products</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item">
-                        <img class="img-fluid" src="img/service-3.jpg" alt="">
+                        <img class="img-fluid" src="img/service-3.jpg" alt="Equipment Rental">
                         <div class="service-img">
-                            <img class="img-fluid" src="img/service-3.jpg" alt="">
+                            <img class="img-fluid" src="img/service-3.jpg" alt="Equipment Rental">
                         </div>
                         <div class="service-detail">
                             <div class="service-title">
                                 <hr class="w-25">
-                                <h3 class="mb-0">Plumbing & Water Treatment</h3>
+                                <h3 class="mb-0">Equipment Rental</h3>
                                 <hr class="w-25">
                             </div>
                             <div class="service-text">
-                                <p class="text-white mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos
-                                    lorem sed diam stet diam sed stet.</p>
+                                <p class="text-white mb-0">Rent high-quality building equipment for short-term projects. Competitive rates and well-maintained machinery for professional results.</p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Read More</a>
+                        <a class="btn btn-light" href="">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -220,12 +213,64 @@
     <!-- Service End -->
 
 
+    <!-- Featured Products Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                <p class="fw-medium text-uppercase text-primary mb-2">Featured Products</p>
+                <h1 class="display-5 mb-4">Premium Natraj Building Tools</h1>
+                <p class="mb-5">As the #1 distributor of Natraj spanners and files across Africa, we provide unmatched quality and reliability for professionals in the construction and manufacturing industries.</p>
+            </div>
+
+            <div class="row g-4">
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item rounded overflow-hidden pb-4">
+                        <img class="img-fluid mb-4" src="img/1.jpg" alt="Double Open End Spanners">
+                        <h5>Double Open End Spanners</h5>
+                        <p class="text-primary">Natraj Premium Series</p>
+                        <p class="small">Chrome-plated finish with precision-machined openings for perfect fit and durability.</p>
+                        <a class="btn btn-primary btn-sm" href="">View Details</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="team-item rounded overflow-hidden pb-4">
+                        <img class="img-fluid mb-4" src="img/2.jpg" alt="Ring Spanners">
+                        <h5>Ring Spanners</h5>
+                        <p class="text-primary">Natraj Professional Series</p>
+                        <p class="small">12-point ring design provides superior grip and prevents fastener rounding.</p>
+                        <a class="btn btn-primary btn-sm" href="">View Details</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="team-item rounded overflow-hidden pb-4">
+                        <img class="img-fluid mb-4" src="img/3.jpg" alt="Combination Spanners">
+                        <h5>Combination Spanners</h5>
+                        <p class="text-primary">Natraj Contractor Series</p>
+                        <p class="small">Features both open and ring ends for maximum versatility in any job site.</p>
+                        <a class="btn btn-primary btn-sm" href="">View Details</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="team-item rounded overflow-hidden pb-4">
+                        <img class="img-fluid mb-4" src="img/4.jpg" alt="Precision Files">
+                        <h5>Precision Files</h5>
+                        <p class="text-primary">Natraj Master Series</p>
+                        <p class="small">High-carbon steel files with precision-cut teeth for metalworking and finishing.</p>
+                        <a class="btn btn-primary btn-sm" href="">View Details</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Featured Products End -->
+
+
     <!-- Testimonial Start -->
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="fw-medium text-uppercase text-primary mb-2">Testimonial</p>
-                <h1 class="display-5 mb-5">What Our Clients Say!</h1>
+                <p class="fw-medium text-uppercase text-primary mb-2">Testimonials</p>
+                <h1 class="display-5 mb-5">What Our Customers Say</h1>
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
                 <div class="testimonial-item text-center">
@@ -236,11 +281,9 @@
                         </div>
                     </div>
                     <div class="testimonial-text text-center rounded p-4">
-                        <p>Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna
-                            ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea
-                            clita.</p>
-                        <h5 class="mb-1">Client Name</h5>
-                        <span class="fst-italic">Profession</span>
+                        <p>The Natraj spanners we ordered have proven to be exceptionally durable. After using them daily in our workshop for over a year, they still perform like new. The quality is unmatched and the wholesale pricing was excellent.</p>
+                        <h5 class="mb-1">Michael Johnson</h5>
+                        <span class="fst-italic">Construction Supervisor</span>
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
@@ -251,11 +294,9 @@
                         </div>
                     </div>
                     <div class="testimonial-text text-center rounded p-4">
-                        <p>Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna
-                            ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea
-                            clita.</p>
-                        <h5 class="mb-1">Client Name</h5>
-                        <span class="fst-italic">Profession</span>
+                        <p>As a hardware store owner, I've been purchasing tools from this distributor for over 5 years. Their Natraj files are consistently our best-selling item due to their quality and reliability. The wholesale service is always prompt and efficient.</p>
+                        <h5 class="mb-1">Sarah Williams</h5>
+                        <span class="fst-italic">Hardware Store Owner</span>
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
@@ -266,11 +307,9 @@
                         </div>
                     </div>
                     <div class="testimonial-text text-center rounded p-4">
-                        <p>Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna
-                            ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea
-                            clita.</p>
-                        <h5 class="mb-1">Client Name</h5>
-                        <span class="fst-italic">Profession</span>
+                        <p>We equipped our entire maintenance team with their complete set of building tools. The quality is exceptional, especially the Natraj products. Their equipment rental service also saved us significant costs on our latest project.</p>
+                        <h5 class="mb-1">Robert Ondieki</h5>
+                        <span class="fst-italic">Facility Manager</span>
                     </div>
                 </div>
             </div>
