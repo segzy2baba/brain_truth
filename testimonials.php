@@ -21,7 +21,7 @@
                 </div>
                 <div class="testimonial-text text-center rounded p-4">
                     <p>The Natraj spanners we ordered have proven to be exceptionally durable. After using them daily in our workshop for over a year, they still perform like new. The quality is unmatched and the wholesale pricing was excellent.</p>
-                    <h5 class="mb-1">Michael Johnson</h5>
+                    <h5 class="mb-1 text-secondary">Michael Johnson</h5>
                     <span class="fst-italic">Construction Supervisor</span>
                 </div>
             </div>
@@ -34,7 +34,7 @@
                 </div>
                 <div class="testimonial-text text-center rounded p-4">
                     <p>As a hardware store owner, I've been purchasing tools from this distributor for over 5 years. Their Natraj files are consistently our best-selling item due to their quality and reliability. The wholesale service is always prompt and efficient.</p>
-                    <h5 class="mb-1">Sarah Williams</h5>
+                    <h5 class="mb-1 text-secondary">Sarah Williams</h5>
                     <span class="fst-italic">Hardware Store Owner</span>
                 </div>
             </div>
@@ -47,7 +47,7 @@
                 </div>
                 <div class="testimonial-text text-center rounded p-4">
                     <p>We equipped our entire maintenance team with their complete set of building tools. The quality is exceptional, especially the Natraj products. Their equipment rental service also saved us significant costs on our latest project.</p>
-                    <h5 class="mb-1">Robert Ondieki</h5>
+                    <h5 class="mb-1 text-secondary">Robert Ondieki</h5>
                     <span class="fst-italic">Facility Manager</span>
                 </div>
             </div>

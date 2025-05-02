@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Building Tools Shop & Wholesaler</title>
+    <title>Braintrusth : Building Tools Shop & Wholesaler</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Building tools, hardware tools, Natraj spanners, files, wholesaler" name="keywords">
     <meta content="Leading distributor of premium building tools and Natraj hardware products across Africa" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="img/logo.png" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

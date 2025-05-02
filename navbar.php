@@ -7,7 +7,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
     <div class="logo-container" style="height: 50px; display: flex; align-items: center">
       <img src="img/logo.png" alt="Brain & Truth Logo" style="height: 40px; margin-right: 10px" />
       <!-- Ensure h1 text color is visible on the white background if needed -->
-      <h1 class="text-white m-0">Brain & Truth</h1>
+      <h1 class="text-white m-0">Braintrusth</h1>
     </div>
   </a>
   <button

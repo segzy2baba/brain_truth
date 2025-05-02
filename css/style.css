@@ -54,6 +54,10 @@ h6,
   color: var(--secondary) !important;
 }
 
+.text-dark {
+  color: var(--dark) !important;
+}
+
 /*** Spinner ***/
 #spinner {
   opacity: 0;

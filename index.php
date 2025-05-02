@@ -2,13 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Industro - Industrial HTML Template</title>
+    <title>Braintrusth : : Building Tools Shop & Wholesaler</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="" name="keywords" />
     <meta content="" name="description" />
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon" />
+    <link href="img/logo.png" rel="icon" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -229,10 +229,10 @@
                   >
                     <i class="fa fa-envelope-open text-white"></i>
                   </div>
-                  <div class="ms-3">
+                  <div class="ms-3 ">
                     <p class="mb-2">Email us</p>
                     <h5
-                      class="mb-0"
+                      class="mb-0 text-dark"
                       style="overflow-wrap: break-word; width: 65%"
                     >
                     Brainandtruth@gmail.com
@@ -249,7 +249,7 @@
                   </div>
                   <div class="ms-3">
                     <p class="mb-2">Call us</p>
-                    <h5 class="mb-0">+234 808 999 8785</h5>
+                    <h5 class="mb-0 text-dark">+234 808 999 8785</h5>
                   </div>
                 </div>
               </div>
@@ -263,46 +263,46 @@
     <!-- Facts Start -->
     <div class="container-fluid facts my-5 p-5">
       <div class="row g-5">
-        <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.1s">
-          <div class="text-center border p-5">
-            <i class="fa fa-toolbox fa-3x text-white mb-3"></i>
-            <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">
-              25
-            </h1>
-            <span class="fs-5 fw-semi-bold text-white">Years in Business</span>
-          </div>
+      <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.1s">
+        <div class="text-center border p-5 h-100">
+        <i class="fa fa-toolbox fa-3x text-white mb-3"></i>
+        <h1 class="display-4 text-primary mb-0" data-toggle="counter-up">
+          25
+        </h1>
+        <span class="fs-5 fw-semi-bold text-white">Years in Business</span>
         </div>
-        <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.3s">
-          <div class="text-center border p-5">
-            <i class="fa fa-warehouse fa-3x text-white mb-3"></i>
-            <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">
-              50
-            </h1>
-            <span class="fs-5 fw-semi-bold text-white"
-              >Warehouse Locations</span
-            >
-          </div>
+      </div>
+      <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.3s">
+        <div class="text-center border p-5 h-100">
+        <i class="fa fa-warehouse fa-3x text-white mb-3"></i>
+        <h1 class="display-4 text-primary mb-0" data-toggle="counter-up">
+          50
+        </h1>
+        <span class="fs-5 fw-semi-bold text-white"
+          >Warehouse Locations</span
+        >
         </div>
-        <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.5s">
-          <div class="text-center border p-5">
-            <i class="fa fa-users fa-3x text-white mb-3"></i>
-            <h1 class="display-4 text-primary mb-0" data-toggle="counter-up">
-              10,000
-            </h1>
-            <span class="fs-5 fw-semi-bold text-white"
-              >Satisfied Customers</span
-            >
-          </div>
+      </div>
+      <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.5s">
+        <div class="text-center border p-5 h-100">
+        <i class="fa fa-users fa-3x text-white mb-3"></i>
+        <h1 class="display-4 text-primary mb-0" data-toggle="counter-up">
+          10,000
+        </h1>
+        <span class="fs-5 fw-semi-bold text-white"
+          >Satisfied Customers</span
+        >
         </div>
-        <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.7s">
-          <div class="text-center border p-5">
-            <i class="fa fa-tools fa-3x text-white mb-3"></i>
-            <h1 class="display-4 text-primary mb-0" data-toggle="counter-up">
-              5,0000
-            </h1>
-            <span class="fs-5 fw-semi-bold text-white">Tools Available</span>
-          </div>
+      </div>
+      <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.7s">
+        <div class="text-center border p-5 h-100">
+        <i class="fa fa-tools fa-3x text-white mb-3"></i>
+        <h1 class="display-4 text-primary mb-0" data-toggle="counter-up">
+          5,0000
+        </h1>
+        <span class="fs-5 fw-semi-bold text-white">Tools Available</span>
         </div>
+      </div>
       </div>
     </div>
     <!-- Facts End -->
@@ -349,8 +349,8 @@
                   >
                     <i class="fa fa-check text-white"></i>
                   </div>
-                  <div class="ms-4">
-                    <h4>Wide Range of Tools</h4>
+                  <div class="ms-4 ">
+                    <h4 class="text-dark">Wide Range of Tools</h4>
                     <span
                       >From hand tools to power tools, we have everything you
                       need for your projects.</span
@@ -366,7 +366,7 @@
                     <i class="fa fa-check text-white"></i>
                   </div>
                   <div class="ms-4">
-                    <h4>Competitive Pricing</h4>
+                    <h4 class="text-dark">Competitive Pricing</h4>
                     <span
                       >Get the best value for your money with our affordable
                       pricing.</span
@@ -382,7 +382,7 @@
                     <i class="fa fa-check text-white"></i>
                   </div>
                   <div class="ms-4">
-                    <h4>Expert Support</h4>
+                    <h4 class="text-dark">Expert Support</h4>
                     <span
                       >Our team is here to help you choose the right tools and
                       provide guidance.</span
@@ -454,7 +454,7 @@
               <div class="service-detail">
                 <div class="service-title">
                   <hr class="w-25" />
-                  <h3 class="mb-0">Tool Rental Services</h3>
+                  <h3 class="mb-0 text-dark">Tool Rental Services</h3>
                   <hr class="w-25" />
                 </div>
                 <div class="service-text">
@@ -477,7 +477,7 @@
               <div class="service-detail">
                 <div class="service-title">
                   <hr class="w-25" />
-                  <h3 class="mb-0">Warehouse Storage</h3>
+                  <h3 class="mb-0 text-dark">Warehouse Storage</h3>
                   <hr class="w-25" />
                 </div>
                 <div class="service-text">
@@ -500,7 +500,7 @@
               <div class="service-detail">
                 <div class="service-title">
                   <hr class="w-25" />
-                  <h3 class="mb-0">Custom Tool Kits</h3>
+                  <h3 class="mb-0 text-dark">Custom Tool Kits</h3>
                   <hr class="w-25" />
                 </div>
                 <div class="service-text">
